@@ -85,9 +85,9 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/day.svg" />
-  <img alt="GitHub contribution overview" src="./profile-3d-contrib/day.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="GitHub contribution overview" src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
 </picture>
 
 </div>
