@@ -1,0 +1,16 @@
+[
+    {
+        "type": "gitblock",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#00000f",
+        "radarColor": "#47a042"
+    },
+    {
+        "type": "gitblock",
+        "fileName": "night.svg",
+        "backgroundColor": "#0d1117",
+        "foregroundColor": "#e6edf3",
+        "radarColor": "#58a6ff"
+    }
+]
