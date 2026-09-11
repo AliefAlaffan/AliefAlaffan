@@ -50,7 +50,6 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 **Database**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 **Tools**
 
@@ -85,11 +84,13 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/day.svg" />
+  <img alt="GitHub contribution overview" src="./profile-3d-contrib/day.svg" width="100%" />
+</picture>
 
 </div>
-
-<sub>Grafik ini digenerate otomatis tiap hari lewat GitHub Action (`.github/workflows/profile-3d.yml`) — bukan API eksternal, jadi gak akan down/rate-limited kayak yang tadi.</sub>
 
 ## 🌱 Currently Learning
 - ⚛️ React & Next.js Server Components
@@ -106,7 +107,7 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 - 🚀 Shipping open source utilities and code templates
 - 🤝 Open to collaboration on developer tooling
 
-> "Make it work, make it right, make it fast." - Kent Beck
+> "Code is not just about solving problems, it's about creating useful experiences."
 
 ## 📫 Let's Connect
 
