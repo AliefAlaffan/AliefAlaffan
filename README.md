@@ -28,7 +28,6 @@ I'm a passionate **Web Developer** who enjoys building modern web applications, 
 
 My focus revolves around writing maintainable codebases, designing intuitive UI/UX systems, and building robust backend services. I believe great software bridges thoughtful design with solid engineering ergonomics.
 
-- 📍 Location: Worldwide (Remote)
 - 💼 Availability: Freelance / Full-Time Roles
 - ⚡ Superpower: Quick turnaround & clean UI
 
@@ -86,9 +85,11 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliefAlaffan&theme=github_dark" width="100%" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
 
 </div>
+
+<sub>Grafik ini digenerate otomatis tiap hari lewat GitHub Action (`.github/workflows/profile-3d.yml`) — bukan API eksternal, jadi gak akan down/rate-limited kayak yang tadi.</sub>
 
 ## 🌱 Currently Learning
 - ⚛️ React & Next.js Server Components
@@ -105,7 +106,7 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 - 🚀 Shipping open source utilities and code templates
 - 🤝 Open to collaboration on developer tooling
 
-> "Code is not just about solving problems, it's about creating useful experiences."
+> "Make it work, make it right, make it fast." - Kent Beck
 
 ## 📫 Let's Connect
 
