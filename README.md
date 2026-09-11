@@ -65,12 +65,12 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 
 <div align="center">
 
-<a href="https://github.com/AliefAlaffan/KostHub-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/KostHub-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Frontend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/Stockify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=Stockify&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/KasirPintar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=KasirPintar&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/QuickMenuQR-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=QuickMenuQR-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/WarungNasiBuYati"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AliefAlaffan&repo=WarungNasiBuYati&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/KostHub-Backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/KostHub-Frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Frontend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/Stockify"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=Stockify&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/KasirPintar"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KasirPintar&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/QuickMenuQR-Backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=QuickMenuQR-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/WarungNasiBuYati"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=WarungNasiBuYati&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 
 </div>
 
@@ -86,8 +86,8 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliefAlaffan&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliefAlaffan&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=AliefAlaffan&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliefAlaffan&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" width="35%" />
 
 <img src="https://streak-stats.demolab.com/?user=AliefAlaffan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=E3B341&currStreakLabel=58A6FF" width="70%" />
 
