@@ -11,6 +11,14 @@
         "fileName": "night.svg",
         "backgroundColor": "#0d1117",
         "foregroundColor": "#e6edf3",
-        "radarColor": "#58a6ff"
+        "radarColor": "#58a6ff",
+        "weakColor": "#30363d",
+        "contribColors": [
+            "#161b22",
+            "#0e4429",
+            "#006d32",
+            "#26a641",
+            "#39d353"
+        ]
     }
 ]
