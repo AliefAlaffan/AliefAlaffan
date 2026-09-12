@@ -27,9 +27,6 @@ I'm a passionate **Web Developer** who enjoys building modern web applications, 
 
 My focus revolves around writing maintainable codebases, designing intuitive UI/UX systems, and building robust backend services. I believe great software bridges thoughtful design with solid engineering ergonomics.
 
-- 💼 Availability: Freelance / Full-Time Roles
-- ⚡ Superpower: Quick turnaround & clean UI
-
 ## 🖥️ Tech & Tools
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -91,7 +88,6 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 - 🔗 RESTful API Standards & GraphQL
 - 🗄️ Database Indexing & Query Optimization
 - 🎨 UI/UX Design Systems in Figma
-- 🔧 Advanced Git Workflow & CI/CD Pipelines
 
 ## ⚡ What I'm Working On
 - 🔨 Building full-stack web applications for clients
@@ -100,7 +96,7 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 - 🚀 Shipping open source utilities and code templates
 - 🤝 Open to collaboration on developer tooling
 
-> "Code is not just about solving problems, it's about creating useful experiences."
+>"Make it work, make it right, make it fast." - Kent Beck
 
 ## 📫 Let's Connect
 
