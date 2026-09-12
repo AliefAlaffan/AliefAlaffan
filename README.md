@@ -13,9 +13,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AliefAlaffan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/AliefAlaffan)
-[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/AliefAlaffan)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@alief.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alief-alaffan-14a38b434/)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/aalf_19)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@aliefalaffan123@gmail.com)
 
 </div>
 
@@ -62,21 +62,21 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 
 <div align="center">
 
+<a href="https://github.com/AliefAlaffan/QuickMenuQR-Backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=QuickMenuQR-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
+<a href="https://github.com/AliefAlaffan/QuickMenuQR-Frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=QuickMenuQR-Frontend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 <a href="https://github.com/AliefAlaffan/KostHub-Backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 <a href="https://github.com/AliefAlaffan/KostHub-Frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KostHub-Frontend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 <a href="https://github.com/AliefAlaffan/Stockify"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=Stockify&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/KasirPintar"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=KasirPintar&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
-<a href="https://github.com/AliefAlaffan/QuickMenuQR-Backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=QuickMenuQR-Backend&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 <a href="https://github.com/AliefAlaffan/WarungNasiBuYati"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AliefAlaffan&repo=WarungNasiBuYati&theme=dark&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" /></a>
 
 </div>
 
 | Project | Description | Stack |
 |---|---|---|
+| **QuickMenuQR** | QR-based ordering system — customers scan a QR code to order, orders sync live to kitchen & cashier, and diners can track order status in real time (pending, cooking, ready) plus other supporting features. | Laravel • React |
 | **KostHub** (Backend + Frontend) | Property / boarding house management system for owners, staff, and tenants. | PHP • JavaScript |
 | **Stockify** | Inventory / stock management system. | Blade (Laravel) |
 | **KasirPintar** | Point-of-sale (cashier) system. | Blade (Laravel) |
-| **QuickMenuQR** | QR-based restaurant/menu ordering backend. | Blade (Laravel) |
 | **WarungNasiBuYati** | Small business website / ordering system. | Blade (Laravel) |
 
 ## 📊 GitHub Overview
@@ -113,8 +113,8 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AliefAlaffan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/AliefAlaffan)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@alief.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alief-alaffan-14a38b434/)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@aliefalaffan123@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=AliefAlaffan&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
