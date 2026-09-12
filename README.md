@@ -13,7 +13,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AliefAlaffan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alief-alaffan-14a38b434/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aliefalaffan/)
 [![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/aalf_19)
 [![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@aliefalaffan123@gmail.com)
 
@@ -113,7 +113,7 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/AliefAlaffan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alief-alaffan-14a38b434/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/aliefalaffan/)
 [![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@aliefalaffan123@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=AliefAlaffan&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
