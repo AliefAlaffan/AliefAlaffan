@@ -65,9 +65,8 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 | Project | Description | Stack |
 |---|---|---|
 | **QuickMenuQR** | QR-based ordering system — customers scan a QR code to order, orders sync live to kitchen & cashier, and diners can track order status in real time (pending, cooking, ready) plus other supporting features. | Laravel • React |
-| **KostHub** (Backend + Frontend) | Property / boarding house management system for owners, staff, and tenants. | PHP • JavaScript |
+| **KostHub** (Backend + Frontend) | Property / boarding house management system for owners, staff, and tenants. | Laravel • React |
 | **Stockify** | Inventory / stock management system. | Blade (Laravel) |
-| **KasirPintar** | Point-of-sale (cashier) system. | Blade (Laravel) |
 | **WarungNasiBuYati** | Small business website / ordering system. | Blade (Laravel) |
 
 ## 📊 GitHub Overview
