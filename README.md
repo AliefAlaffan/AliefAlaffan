@@ -30,33 +30,27 @@ My focus revolves around writing maintainable codebases, designing intuitive UI/
 - 💼 Availability: Freelance / Full-Time Roles
 - ⚡ Superpower: Quick turnaround & clean UI
 
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/-PHP-161B22?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/-Laravel-161B22?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/-Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/-VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
+## 🖥️ Tech & Tools
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-2D2D2D?style=flat&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ## 🚀 Featured Projects
 
